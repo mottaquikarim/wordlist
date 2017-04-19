@@ -1,7 +1,9 @@
 # List of words that end in -us that, in plural form, end in -i
 
-**Output**: us-list.txt - total of 559 words out of 479829, or 0.12%, approximately
 **Input**: wordslist.txt
+
+**Output**: us-list.txt - total of 559 words out of 479829, or 0.12%, approximately
+
 
 ## To Run
 
