@@ -2,7 +2,8 @@
 
 **Input**: wordslist.txt
 
-**Output**: us-list.txt - total of 559 words out of 479829, or 0.12%, approximately
+**Output**: us-list.txt - total of 559 words out of 479829, or 0.12%, approximately.
+(Open the us-list.txt file above to see them all as a list)
 
 
 ## To Run
