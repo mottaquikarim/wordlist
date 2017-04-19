@@ -1,4 +1,4 @@
-# List of words that end in -us that, in plural form, end in -i
+# List of words ending in -us that in plural form end in -i
 
 **Input**: wordslist.txt
 
